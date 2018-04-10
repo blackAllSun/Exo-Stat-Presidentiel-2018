@@ -1,0 +1,5 @@
+Chiffres pris de cet article : https://www.20minutes.fr/elections/presidentielle/2055691-20170424-resultat-election-30-jeunes-vote-jean-luc-melenchon-selon-ipsos
+j'ai mis Macron à Gauche
+G:Macron,Melenchon,Hamon
+D:Fillon,Le Pen
+l'age median est à 38 ans
